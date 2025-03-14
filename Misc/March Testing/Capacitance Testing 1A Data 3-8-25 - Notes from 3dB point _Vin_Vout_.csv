@@ -1,0 +1,9 @@
+Direct measure of Vc/Vin,,
+Resistor,|Vc/Vin| (db),Notes
+10,-6.9,Cutoff at 12 KHz
+100,-12,100 KHz
+1.00E+03,-27.2,
+1.00E+04,46.2,
+1.00E+05,-65,Noisy
+,,
+** We saw constant |Vc/Vin| (db) for low frequency,,
