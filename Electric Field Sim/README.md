@@ -1,4 +1,4 @@
-# nanotech_capacitor
+# nanotech_capacitor (WORK FROM NANDANDIWAN)
  basic capacitor model, wip
 
 ## TODO:
